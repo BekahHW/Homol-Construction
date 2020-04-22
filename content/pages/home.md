@@ -1,27 +1,28 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Homol Construction
+featuredImage: '../public/images/IMG_0779.jpeg'
+subtitle: ' Owned and operated by the Homol Family since 19XX'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: This is a construction site.
+  title: Homol Construction
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+
+Homol Construction has been operating in the Ohio Valley since XXXX. We value the input of our customers and work hard to create the new construction, remodel, or space of their dreams. We always strive to do our best and to provide the customer service you want.
 
 View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
 
 # Features
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+- **[Gatsby](https://gatsbyjs.org)** static site generator
+- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
+- Dynamic menus and forms
+- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
+- Fully responsive layout for mobile and widescreen browsing
+- Blog searching and paging functionality
+- Seamless image and content sliders
+- Instagram feed integration
 
 ## Get started
 
