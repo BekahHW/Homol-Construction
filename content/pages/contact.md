@@ -2,7 +2,8 @@
 template: ContactPage
 slug: contact
 title: Contact Us
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: https://source.unsplash.com/VdOO4_HFTWM/1600x900
+
 subtitle: For more information, please fill out the form below.
 address: '610 Lauretta Dr, Steubenville, OH 43952'
 phone: (740) 535-1261

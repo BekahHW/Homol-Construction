@@ -21,11 +21,13 @@ export const ContactPageTemplate = ({
   locations
 }) => (
   <main className="Contact">
-    <PageHeader
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
+    <div style={{ textAlign: 'right' }}>
+      <PageHeader
+        title={title}
+        subtitle={subtitle}
+        backgroundImage={featuredImage}
+      />
+    </div>
     <section className="section Contact--Section1">
       <div className="container Contact--Section1--Container">
         <div>
