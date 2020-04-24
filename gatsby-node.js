@@ -106,6 +106,23 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
-
+exports.createPages = async ({ graphql, actions }) => {
+  // **Note:** The graphql function call returns a Promise
+  // see: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise for more info
+  const result = await graphql(`
+    query {
+      allMarkdownRemark {
+        edges {
+          node {
+            fields {
+              slug
+            }
+          }
+        }
+      }
+    }
+  `)
+  console.log(JSON.stringify(result, null, 4))
+}
 // Random fix for https://github.com/gatsbyjs/gatsby/issues/5700
 module.exports.resolvableExtensions = () => ['.json']
