@@ -1,42 +1,53 @@
 ---
 template: ComponentsPage
 slug: showcase
-title: Showcase Page
+title: Our Work
 featuredImage: 'https://source.unsplash.com/A1g0oeX29ec/1600x900'
 subtitle: From new builds, to remodels, to outdoor space, we do it all.
+
 section1: >-
+  *When it comes to home additions, remodels, and hom repairs, we know how important it is to have a dependable and quality construction company working on your home. With endless possibilities, we’re here to ensure that you get both of those things with the confidence that your project will receive the attention it deserves.  We’re always open to hearing about what you want, whether or not it’s listed as a service on our site, but here are some of the main categories we work on.*
 
+   ## Kitchens and Bathrooms
 
-  ## This is a container component
+   Your kitchen design and layout should reflect your style and accommodate all your cooking needs.  Remodeling your kitchen is one of the fastest ways to increase the value of your home. We use quality materials and focus on how to define the space in a way that best suits you.
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+   Whatever the size of the space, the bathroom should be customized to fit your needs. Whether you need a new tub, tile, or plumbing, we work on all aspects of the bathroom to create a space that’s both functional and high quality.
 
+    ## Remodeling and New Builds
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
-section2: |-
-  ## You can use videos, images and text.
+    If you have a space you love that needs updated to fit your vision, we can help you to redefine your space. We’ve done everything from  [this type of update to that type of update]. We’ll take the time to understand your goals and help you to not only update your space, but also to increase the value of your house.
 
+    Whether you’re looking for a new house or an addition, we’re here to help you define your vision by utilizing the space and the budget you have. Let building a new house be an exciting and enjoyable experience as we help you to create your dream. If you don’t need a new house but want to expand your space, we have you covered here to. Some of our most popular projects are three-season rooms and additions.
+gallery:   
+  - alt: another set of tools
+    image: 'https://source.unsplash.com/collection/9930600'
+    title: So many tools
+  - alt: another set of tools
+    image: 'https://source.unsplash.com/collection/9930600'
+    title: So many tools
+  - alt: another set of tools
+    image: 'https://source.unsplash.com/collection/9930600'
+    title: So many tools
+
+section2: >-
+  ## Outdoor Living & Exteriors
+
+  Outdoor living can provide the relaxing atmosphere for entertaining friends and family. Whether you need a deck or a patio, or you want to bring to life your outdoor space dreams of an outdoor kitchen, we’ve got you covered.
+
+  Not only can roofing, windows, and siding define your house from the outside, but they can also protect the insider. We make sure to provide quality and dependable materials to do both.
 gallery:
-  - alt: yellow rope image
-    image: 'https://source.unsplash.com/collection/3792443
-/1600x900'
+  - alt: tools image
+    image: 'https://source.unsplash.com/collection/3792443'
     title: Tools
-  - alt: umbrellas
-    image: 'https://source.unsplash.com/collection/3792443
-/1600x900'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://source.unsplash.com/collection/3792443
-/1600x900'
-    title: Yellow Ice Cream
+  - alt: more tools
+    image: 'https://source.unsplash.com/collection/2432122'
+    title: a bunch of tools
+  - alt: another set of tools
+    image: 'https://source.unsplash.com/collection/9930600'
+    title: So many tools
 
 meta:
   description: This is a meta description.
-  title: Showcase Page
+  title: Our Work
 ---

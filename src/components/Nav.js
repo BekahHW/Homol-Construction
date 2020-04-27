@@ -84,6 +84,7 @@ export class Navigation extends Component {
               </div>
             </div>
             {/* <NavLink to="/default/">Default</NavLink> */}
+            <NavLink to="/showcase/">Showcase</NavLink>
             <NavLink to="/aboutus/">About</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
           </div>

@@ -7,7 +7,7 @@ import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
-import Popup from '../components/Popup'
+// import Popup from '../components/Popup'
 
 // Export Template for use in CMS preview
 export const ComponentsPageTemplate = ({
@@ -37,7 +37,7 @@ export const ComponentsPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <h2>Our gallery component</h2>
+        <h2>Our work</h2>
         <Gallery images={gallery} />
       </div>
     </section>
@@ -48,7 +48,7 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
 
-    <section className="BackgroundVideo-section section">
+    {/* <section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
         {video && <source src={video} type="video/mp4" />}
       </BackgroundVideo>
@@ -58,15 +58,15 @@ export const ComponentsPageTemplate = ({
       <div className="container">
         <Accordion items={accordion} />
       </div>
-    </section>
+    </section> */}
 
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Popup>
           <Content source={section1} />
         </Popup>
       </div>
-    </section>
+    </section> */}
   </main>
 )
 
