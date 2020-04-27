@@ -2,14 +2,14 @@
 template: HomePage
 slug: ''
 title: Homol Construction
-featuredImage: '../public/images/IMG_0119.JPG'
+featuredImage: https://source.unsplash.com/RKdLlTyjm5g/1600x900
 subtitle: 'Owned and operated by the Homol Family since 19XX'
 meta:
   description: This is a construction site.
   title: Homol Construction
 ---
 
-Homol Construction has been operating in the Ohio Valley since XXXX. We value the input of our customers and work hard to create the new construction, remodel, or space of their dreams. We always strive to do our best and to provide the customer service you want. We'd love to be able to help you with your next project!
+_Homol Construction has been operating in the Ohio Valley since XXXX. We value the input of our customers and work hard to create the new construction, remodel, or space of their dreams. We always strive to do our best and to provide the customer service you want. We'd love to be able to help you with your next project!_
 
 <!-- View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md). -->
 

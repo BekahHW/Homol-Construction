@@ -16,12 +16,15 @@ export const ComponentsPageTemplate = ({
   featuredImage,
   section1,
   section2,
+  section3,
   video,
   videoPoster,
   videoTitle,
   accordion,
   body,
-  gallery
+  gallery,
+  gallery2,
+  gallery3
 }) => (
   <main>
     <PageHeader
@@ -32,21 +35,38 @@ export const ComponentsPageTemplate = ({
     <section className="section">
       <div className="container">
         <Content source={section1} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <h2>Our work</h2>
         <Gallery images={gallery} />
       </div>
     </section>
 
+    {/* <section className="section">
+      <div className="container">
+        <h2>Our work</h2>
+        <Gallery images={gallery} />
+      </div>
+    </section>  */}
+
     <section className="section">
       <div className="container">
         <Content source={section2} />
+        <Gallery images={gallery2} />
       </div>
     </section>
+
+    <section className="section">
+      <div>yo</div>
+      <div className="container">
+        <Content source={section3} />
+        <Gallery images={gallery3} />
+      </div>
+    </section>
+
+    {/* <section className="section">
+      <div className="container">
+        <h2>Our work</h2>
+        <Gallery images={gallery} />
+      </div>
+    </section> */}
 
     {/* <section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
