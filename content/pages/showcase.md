@@ -6,7 +6,6 @@ featuredImage: 'https://source.unsplash.com/A1g0oeX29ec/1600x900'
 subtitle: From new builds, to remodels, to outdoor space, we do it all.
 
 section1: >-
-  *When it comes to home additions, remodels, and hom repairs, we know how important it is to have a dependable and quality construction company working on your home. With endless possibilities, we’re here to ensure that you get both of those things with the confidence that your project will receive the attention it deserves.  We’re always open to hearing about what you want, whether or not it’s listed as a service on our site, but here are some of the main categories we work on.*
 
   ## Kitchens and Bathrooms
 

@@ -54,19 +54,11 @@ export const ComponentsPageTemplate = ({
     </section>
 
     <section className="section">
-      <div>yo</div>
       <div className="container">
         <Content source={section3} />
         <Gallery images={gallery3} />
       </div>
     </section>
-
-    {/* <section className="section">
-      <div className="container">
-        <h2>Our work</h2>
-        <Gallery images={gallery} />
-      </div>
-    </section> */}
 
     {/* <section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
@@ -114,6 +106,8 @@ export const pageQuery = graphql`
         featuredImage
         section1
         section2
+        section3
+
         video
         videoPoster
         videoTitle
