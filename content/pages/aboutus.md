@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: aboutus
 title: About Us
-featuredImage: https://source.unsplash.com/dBiIcdxMWfE/1600x900
+featuredImage: https://source.unsplash.com/YSxcf6C_SEg/1600x900
 meta:
   description: test meta description
   title: test meta title
