@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: showcase
-title: Our Work
+title: Gallery
 featuredImage: 'https://source.unsplash.com/A1g0oeX29ec/1600x900'
-subtitle: From new builds, to remodels, to outdoor space, we do it all.
+subtitle: New builds, remodels, outdoor spaces
 
 section1: >-
 
