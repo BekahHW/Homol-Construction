@@ -6,9 +6,9 @@ featuredImage: 'https://source.unsplash.com/A1g0oeX29ec/1600x900'
 subtitle: New builds, remodels, outdoor spaces
 
 section1: >-
-  ## Remodeling and New Builds
+  *Whether you're looking to build something new, or if you have a space you love that needs updated to fit your vision, we can help you to redefine your space. We’ll take the time to understand your goals and help you to not only update your space, but also to increase the value of your house.*
 
-   If you have a space you love that needs updated to fit your vision, we can help you to redefine your space. We’ve done everything from  [this type of update to that type of update]. We’ll take the time to understand your goals and help you to not only update your space, but also to increase the value of your house.
+  ## Remodeling and New Builds
 
    Whether you’re looking for a new house or an addition, we’re here to help you define your vision by utilizing the space and the budget you have. Let building a new house be an exciting and enjoyable experience as we help you to create your dream. If you don’t need a new house but want to expand your space, we have you covered here to. Some of our most popular projects are three-season rooms and additions.
 
@@ -42,12 +42,12 @@ gallery2:
   - alt: New shed
     image: '../../images/shed.JPG'
     title: New shed
-  - alt: Deck
-    image: '../../images/deck.JPG'
-    title: Deck
   - alt: Porch Addition
     image: '../../images/narrow_porch.JPG'
     title: Porch Addition
+  - alt: Deck
+    image: '../../images/deck.JPG'
+    title: Deck
 
 gallery3:
   - alt: Kitchen Remodel
