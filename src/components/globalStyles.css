@@ -182,16 +182,6 @@ blockquote {
     padding: 1.5rem 0;
   }
 }
-.container--background {
-  max-width: 1111px;
-  width: 50%;
-  background: rgb(68, 64, 64);
-  opacity: 0.8;
-  text-align: center;
-  top: -150px;
-  border-radius: 20px;
-  margin: 0 auto;
-}
 
 .container {
   max-width: 1111px;
