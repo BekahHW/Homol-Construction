@@ -28,7 +28,7 @@ section3: >-
   Not only can roofing, windows, and siding define your house from the outside, but they can also protect the insider. We make sure to provide quality and dependable materials to do both.
 gallery:
   - alt: another set of kitchens and baths
-    image: 'https://source.unsplash.com/collection/9296402'
+    image: '../../images/rooks_house.jpeg'
     title: So many kitchens and baths
   - alt: another set of kitchens and baths
     image: 'https://source.unsplash.com/collection/9296402'
@@ -37,27 +37,28 @@ gallery:
     image: 'https://source.unsplash.com/collection/9930600'
     title: So many kitchens and baths
 gallery2:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - alt: New Build
+    image: '../../images/rooks_house.jpeg'
+    title: New Build
+  - alt: Exterior Remodel
+    image: '../../images/ext_house.JPG'
+    title: Exterior Remodel
+  - alt: Exterior Covered Patio Addition
+    image: '../../images/porch.JPG'
+
+    title: Exterior Covered Patio Addition
 gallery3:
-  - alt: outdoors image
-    image: 'https://source.unsplash.com/collection/3792443'
-    title: Outdoor
-  - alt: more outdoors
-    image: 'https://source.unsplash.com/collection/2432122'
-    title: a bunch of outdoors
-  - alt: another set of outdoors
-    image: 'https://source.unsplash.com/collection/9930600'
-    title: So many outdoors
+  - alt: New shed
+    image: '../../images/shed.JPG'
+    title: New shed
+  - alt: Deck
+    image: '../../images/deck.JPG'
+    title: Deck
+  - alt: Porch Addition
+    image: '../../images/narrow_porch.JPG'
+    title: Porch Addition
 
 meta:
-  description: This is a meta description.
+  description: This is a gallery of our work.
   title: Our Work
 ---
