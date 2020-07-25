@@ -9,7 +9,7 @@ meta:
   title: Homol Construction
 ---
 
-_Homol Construction has been operating in the Ohio Valley since XXXX. We value the input of our customers and work hard to create the new construction, remodel, or space of their dreams. We always strive to do our best and to provide the customer service you want. We'd love to be able to help you with your next project!_
+_Homol Construction has been operating in the Ohio Valley since 1977. We value the input of our customers and work hard to create the new construction, remodel, or space of their dreams. We always strive to do our best and to provide the customer service you want. We'd love to be able to help you with your next project!_
 
 Some of our favorite projects include:
 
