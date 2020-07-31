@@ -17,7 +17,7 @@
   </head>
   <body>
     <container>
-      <img class='logo' src='{{ .SiteURL }}/images/logo.png' />
+      <img class='logo' src='{{ .SiteURL }}/images/homolLogo.jpg' />
       <h2>You have been invited</h2>
       <p>You have been invited to create a user on {{ .SiteURL }}</p>
       <button class='button' href="{{ .ConfirmationURL }}" style="margin: auto;">Accept the invite</button>
