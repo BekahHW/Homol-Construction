@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Homol Construction
 featuredImage: './images/rooks_house.jpeg'
-subtitle: 'Owned and operated by the Homol Family since 19XX'
+subtitle: 'Owned and operated by the Homol Family since 1977'
 meta:
   description: This is a construction site.
   title: Homol Construction
